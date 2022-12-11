@@ -1,0 +1,24 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnectionString": "Server=(localdb)\\mssqllocaldb;Database=EFGetStarted.ConsoleApp.NewDb;Trusted_Connection=True;"
+  },
+  "application": {
+    "name": "Gary"
+  },
+  "EmailList": {
+    [
+      {
+        "displayName": "project1",
+        "address": "project1@hotmail.com"
+      },
+      {
+        "displayName": "project2",
+        "address": "project2@hotmail.com"
+      },
+      {
+        "displayName": "project3",
+        "address": "project3@hotmail.com"
+      }
+    ]
+  }
+}

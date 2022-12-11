@@ -1,0 +1,17 @@
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\AppConfigTest.exe.config
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\AppConfigTest.exe
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\AppConfigTest.pdb
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Security.AccessControl.dll
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Security.Permissions.dll
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Security.Principal.Windows.dll
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Security.AccessControl.xml
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Security.Permissions.xml
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\bin\Debug\System.Security.Principal.Windows.xml
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\obj\Debug\AppConfigTest.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\obj\Debug\AppConfigTest.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\obj\Debug\AppConfigTest.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\obj\Debug\AppConfigTest.csproj.CopyComplete
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\obj\Debug\AppConfigTest.exe
+D:\Visual Studio 2022\AppConfigTest\AppConfigTest\obj\Debug\AppConfigTest.pdb
